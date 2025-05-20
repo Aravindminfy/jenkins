@@ -3,7 +3,7 @@
 
 
 
-### ✅ GitHub Integration
+###  GitHub Integration
 
 - I connected my GitHub repository under:
   **Jenkins > Pipeline > Definition > Pipeline script from SCM**
@@ -15,7 +15,7 @@
 
 ---
 
-### ⚠ Initial Pipeline Failure
+###  Initial Pipeline Failure
 
 - The pipeline failed at first because Python was not installed in the Jenkins environment
 - I also forgot to create a virtual environment before trying to install dependencies
@@ -38,7 +38,7 @@
 
 ---
 
-### 📄 Final Output
+###  Final Output
 
 - This is the final output from the Jenkins console, showing a successful build
 
